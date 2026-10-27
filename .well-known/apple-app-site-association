@@ -1,0 +1,13 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["5HMZ2JHCP7.com.shivacarimireddy.sage"],
+        "components": [
+          { "/": "/plaid", "comment": "Plaid OAuth redirect" },
+          { "/": "/plaid/*", "comment": "Plaid OAuth redirect" }
+        ]
+      }
+    ]
+  }
+}
